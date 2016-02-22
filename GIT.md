@@ -19,7 +19,7 @@ git push origin master
 
 
 
-## Retrieve team work from GitHub
+## Retrieve team work from GitHub on the master branch
 
 ```
 cd /path/to/repo
@@ -36,6 +36,9 @@ git pull origin master
 
 # IF there are any conflicts, resolve them, then commit
 git commit
+
+# push the merge
+git push origin master
 ```
 
 * [GitHub: resolving a conflict](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/)
