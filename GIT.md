@@ -1,7 +1,10 @@
 # Git & GitHub Help
 
+
+
+## Set up an SSH key
+
 * [GitHub: generating an SSH key](https://help.github.com/articles/generating-an-ssh-key/)
-* [GitHub: resolving a conflict](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/)
 
 
 
@@ -31,5 +34,8 @@ git commit -m "I changed this and that."
 # pull changes
 git pull origin master
 
-# resolve conflicts if any (see GitHub help link at the top)
+# IF there are any conflicts, resolve them, then commit
+git commit
 ```
+
+* [GitHub: resolving a conflict](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/)
