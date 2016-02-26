@@ -18,7 +18,7 @@ Each group must send an e-mail to Simon Oulevay with the following information:
 
 #### Requirements
 
-* A working API.
-* An API documentation for every route of your API.
+* A working API implementing the specification described in the iFlux blog post.
+* An API documentation for every route of the API.
 * The documentation of the API should be available in the running application.
 * You should have at least 1 API resource with **pagination** (e.g. list of issues, list of users, list of comments).
