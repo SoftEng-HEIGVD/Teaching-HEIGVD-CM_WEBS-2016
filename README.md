@@ -18,6 +18,6 @@ Requirements:
 
 * A working API.
 * The documentation of the API should be available in the running application.
-* The README of your repository should explain how to install and run your API locally:
+* The README.md file of your repository should explain how to install and run your API locally:
     * You don't have to explain how to install Node.js or MongoDB, simply list them as requirements.
     * You should simply explain how someone can get and run the application.
